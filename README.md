@@ -34,12 +34,6 @@ Configuration: Rename config.example.json to config.json and fill in your Bot To
 npm run dev
 ```
 
-### 🛠️ Commands
-/form setup — Create a new application prompt in the current channel.
-/form edit — Modify the existing form's title and description.
-/form list — View all active form channels on the server.
-/form submit [True/False] — Enable or disable the ability for users to apply.
-
 ### ⚖️ License
 Distributed under the MIT License. Feel free to use, modify, and share!
 
